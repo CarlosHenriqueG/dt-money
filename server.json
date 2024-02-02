@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-01-23T21:49:46.639Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-01-23T20:20:46.639Z"
+    },
+    {
+      "id": 3,
+      "description": "Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1997,
+      "createdAt": "2024-01-23T20:22:46.639Z"
+    },
+    {
+      "id": 4,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 3500,
+      "createdAt": "2024-01-20T20:19:26.639Z"
+    },
+    {
+      "description": "Curso",
+      "type": "outcome",
+      "price": 50,
+      "category": "Educação",
+      "createdAt": "2024-01-26T04:12:53.360Z",
+      "id": 5
+    },
+    {
+      "description": "Curso",
+      "type": "income",
+      "price": 1000,
+      "category": "Educação",
+      "createdAt": "2024-01-26T04:16:04.124Z",
+      "id": 6
+    },
+    {
+      "description": "Bonificação de trabalho",
+      "type": "income",
+      "price": 1000,
+      "category": "Trabalho",
+      "createdAt": "2024-01-26T04:19:02.248Z",
+      "id": 7
+    },
+    {
+      "description": "Sabor Brasileiro",
+      "type": "outcome",
+      "price": 55,
+      "category": "Alimentação",
+      "createdAt": "2024-01-26T04:47:53.085Z",
+      "id": 8
+    },
+    {
+      "description": "Sabor Brasileiro",
+      "type": "outcome",
+      "price": 19,
+      "category": "Alimentação",
+      "createdAt": "2024-01-27T23:51:55.869Z",
+      "id": 9
+    }
+  ]
+}
